@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d9224b1-2bde-428c-937f-e2cb04ea3eb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_next/static/chunks/pages/_error-892e9a999cfe9f16.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/data/R1BEHUTqQSzn7WfXcHsmB/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_next/data/R1BEHUTqQSzn7WfXcHsmB/index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="3d9224b1-2bde-428c-937f-e2cb04ea3eb1" name="Changes" comment="去除图片文字">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701336099724</updated>
-      <workItem from="1701336100511" duration="1714000" />
+      <workItem from="1701336100511" duration="1759000" />
     </task>
     <task id="LOCAL-00001" summary="text replacement: WELCOME TO XINIT. TO BUILD YOUR OWN SOFTWARE &amp; FULFUILL ALL YOUR EXPECTATIONS.">
       <option name="closed" value="true" />
@@ -80,7 +74,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701337417329</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="去除图片文字">
+      <option name="closed" value="true" />
+      <created>1701337839345</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701337839345</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="text replacement: WELCOME TO XINIT. TO BUILD YOUR OWN SOFTWARE &amp; FULFUILL ALL YOUR EXPECTATIONS." />
-    <option name="LAST_COMMIT_MESSAGE" value="text replacement: WELCOME TO XINIT. TO BUILD YOUR OWN SOFTWARE &amp; FULFUILL ALL YOUR EXPECTATIONS." />
+    <MESSAGE value="去除图片文字" />
+    <option name="LAST_COMMIT_MESSAGE" value="去除图片文字" />
   </component>
 </project>
